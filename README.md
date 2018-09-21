@@ -6,4 +6,6 @@
 
 ->Information and data was maintained on a local server (WAMP).
 
+->For using this project you've to use your own files for entertainment.html
+
 ->Result: Personal Video Entertainment.
